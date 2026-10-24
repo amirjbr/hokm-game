@@ -1,0 +1,14 @@
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Archives
+*.zip
+
+# Temporary files
+*.log
+*.tmp
